@@ -1,0 +1,1 @@
+# Lesen von Textrepräsentationen und Visualisierungen
