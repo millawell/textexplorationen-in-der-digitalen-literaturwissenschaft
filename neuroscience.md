@@ -4,9 +4,9 @@ of eye movements during the reading of Baudelaire’s ‘Les Chats’](https://w
 Fechino, M., Jacobs, A.M. and Lüdtke, J., (2020)  
 Journal of Eye Movement Research, 13(3).  
   
+  
 
-
-###Further Reading  
+**Further Reading**  
 [The E-Z Reader model of eye-movement control in reading: Comparisons to other models](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/ez-reader-model-of-eyemovement-control-in-reading-comparisons-to-other-models/9CCC693C5CF244309325FC744BB04BA1)  
 Reichle, E.D., Rayner, K. and Pollatsek, A., (2003)  
 Behavioral and brain sciences, 26(4).
