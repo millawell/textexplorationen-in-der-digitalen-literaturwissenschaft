@@ -11,14 +11,15 @@ New York: Modern Language Association. DOI: 10.1632/lsda.2013.6
 ## 2016
 Video von Johanna Drucker "What do digital humanists want from visualization?"  
 [youtube.com/watch?v=kdey5H2Nl9w](https://www.youtube.com/watch?v=kdey5H2Nl9w) (2016, 1h23):  
--	10’’38-11’’41; 
--	20’’17-21’’58 (3rd dimension); 
--	22’’45-254405 (visualization types); 
--	44’’00-45’’36 (providing legibility through dimensional move); 
--	49’’41-51’’48 (making data readable - too much twitter project)
+-	10’38-11’41; 
+-	20’17-21’58 (3rd dimension); 
+-	22’45-25’05 (visualization types); 
+-	44’00-45’36 (providing legibility through dimensional move); 
+-	49’41-51’48 (making data readable - too much twitter project).
+
 
 ## 2017
-Moretti, [litlab.stanford.edu/LiteraryLabPamphlet15.pdf](https://litlab.stanford.edu/LiteraryLabPamphlet15.pdf)  
+Franco Moretti, Patterns and Interpretation, Stanford Literary Lab Pamphlet #15: [litlab.stanford.edu/LiteraryLabPamphlet15.pdf](https://litlab.stanford.edu/LiteraryLabPamphlet15.pdf)  
 (Figuren+teil 4)
 
 ## 2021
