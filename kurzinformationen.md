@@ -3,8 +3,8 @@
 # Kommunikationswege
 * [Material zur Vorbereitung](https://millawell.github.io/textexplorationen-in-der-digitalen-literaturwissenschaft/kurzinformationen.html)
 * Während der Veranstaltung treffen wir uns in einem Zoom Raum.
-* [Kollaboratives Pad](https://etherpad.wikimedia.org/p/textexplorationen-workshop) - 
-* Wir haben einen geschlossenen Channel im Discord Server [#DHall](https://discord.gg/KpcJeJjj) eingerichtet 
+* [Kollaboratives Pad](https://etherpad.wikimedia.org/p/textexplorationen-workshop) - für Diskussionsbeiträge, Austausch von Links in den einzelnen Gruppen etc.
+* Wir haben einen geschlossenen Channel im Discord Server [#DHall](https://discord.gg/KpcJeJjj) eingerichtet - für den kurzen, informellen Dienstweg, auch über Breakoutrooms hinweg
 
 ## Ablauf
 
