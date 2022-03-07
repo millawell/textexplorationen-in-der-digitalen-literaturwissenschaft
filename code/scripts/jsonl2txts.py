@@ -22,6 +22,14 @@ def main(input_file, output_path):
             author = data['author-name'][:15].replace(",", "").replace(" ", "-")
             title = data['book-title'][:10].replace(",", "").replace(" ", "-")
             out_file_name = output_path / f"{author}_{title}.txt"
+            
+            if out_file_name.exists():
+
+                appendix = 0
+                while out_file_name.exists():
+                    appendix += 1
+                    out_file_name = output_path / f"{author}_{title}_{appendix}.txt"
+                
             with open(out_file_name, 'w') as out_file:
                 out_file.write(data['text'])
 
