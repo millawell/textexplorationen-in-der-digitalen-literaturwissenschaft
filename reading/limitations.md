@@ -22,6 +22,9 @@ Conference on Empirical Methods in Natural Language Processing (pp. 4847-4853).
 Gonen, H. and Goldberg, Y., (2019)  
 Conference of the North American Chapter of the Association for Computational Linguistics: (pp. 609-614).  
 
-**Für die Vorbereitung auf den Workshop ist es nicht notwendig die Artikel vollständig zu lesen, wir werden die Methodik und Experimente nicht im Detail besprechen. Wir werden insbesondere auf den Artikel von Caliksan eingehen.**
+## Notebook für die praktische Sitzung
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/millawell/textexplorationen-in-der-digitalen-literaturwissenschaft/blob/main/code/04-Limitationen.ipynb) [https://github.com/millawell/textexplorationen-in-der-digitalen-literaturwissenschaft/blob/main/code/04-Limitationen.ipynb](https://github.com/millawell/textexplorationen-in-der-digitalen-literaturwissenschaft/blob/main/code/04-Limitationen.ipynb) 
 
+## Vortragsfolien
+[Limitationen von Word Embeddings](https://github.com/millawell/textexplorationen-in-der-digitalen-literaturwissenschaft/blob/main/slides/Limitationen.pdf)
